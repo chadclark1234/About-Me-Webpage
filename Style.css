@@ -1,0 +1,42 @@
+body {
+  background: radial-gradient(
+    circle at 100%,
+    rgb(219, 213, 213),
+    rgb(224, 219, 219) 50%,
+    #eee 75%
+  );
+}
+
+.container {
+  background-color: white;
+  margin-top: 10px;
+  size: auto;
+  border-radius: 10px;
+}
+h1 {
+  font-family: "Sarala", sans-serif;
+}
+img#profile {
+  float: left;
+  height: 300px;
+  width: 300px;
+  margin-right: 20px;
+}
+p {
+  font-family: cursive;
+  width: auto;
+}
+.chad {
+  border: 1px solid;
+  box-shadow: 5px 5px 5px 5px grey;
+  width: 100%;
+  margin: 0px 20px 20px 0px;
+  border-radius: 10px;
+}
+div.container-2 {
+  size: auto;
+  padding-bottom: 10px;
+}
+.one {
+  margin-bottom: 20px;
+}
