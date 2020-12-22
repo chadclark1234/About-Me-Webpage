@@ -14,10 +14,9 @@ body {
   border-radius: 10px;
   margin-bottom: 30px;
   padding-bottom: 30px;
+  position: relative;
 }
-.underline {
-  border-bottom: black 10px;
-}
+
 h1 {
   font-family: "Sarala", sans-serif;
 }
@@ -39,11 +38,12 @@ p {
   border-radius: 10px;
 }
 
-/* .one {
-  margin-bottom: 20px; */
+.one {
+  margin-bottom: 20px;
 }
 footer {
   position: absolute;
   bottom: 0;
   width: 100%;
+  margin-top: 10px;
 }
