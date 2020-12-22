@@ -12,15 +12,20 @@ body {
   margin-top: 10px;
   size: auto;
   border-radius: 10px;
+  margin-bottom: 30px;
+  padding-bottom: 30px;
+}
+.underline {
+  border-bottom: black 10px;
 }
 h1 {
   font-family: "Sarala", sans-serif;
 }
 img#profile {
-  float: left;
+  /* float: left; */
   height: 300px;
   width: 300px;
-  margin-right: 20px;
+  margin-right: 35px;
 }
 p {
   font-family: cursive;
@@ -33,10 +38,12 @@ p {
   margin: 0px 20px 20px 0px;
   border-radius: 10px;
 }
-div.container-2 {
-  size: auto;
-  padding-bottom: 10px;
+
+/* .one {
+  margin-bottom: 20px; */
 }
-.one {
-  margin-bottom: 20px;
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
