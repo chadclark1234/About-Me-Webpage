@@ -55,66 +55,68 @@
         </ul>
       </div>
     </nav>
-    <div class="container container-contact">
-      <div class="row"><h1>Contact</h1></div>
-      <hr />
-      <form action="">
-        <div class="row">
-          <div class="col-md-6">
-            <div class="form-group">
-              <label for="Name">Name</label>
-              <input
-                type="text"
-                name="name"
-                id="name"
+    <main>
+      <div class="container container-contact">
+        <div class="row"><h1>Contact</h1></div>
+        <hr />
+        <form action="mailto:test@gmail.com">
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <label for="name">Name</label>
+                <input
+                  type="text"
+                  name="name"
+                  id="name"
+                  class="form-control"
+                  placeholder="Name"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-group">
+                <label for="email">Email</label>
+                <input
+                  type="text"
+                  name="name"
+                  id="email"
+                  class="form-control"
+                  placeholder="Email"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <div class="form-group">
+                <label for="message">Message</label>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="form-group col-md-6">
+              <textarea
                 class="form-control"
-                placeholder="Name"
+                id="message"
+                rows="3"
+                placeholder="Message"
+              ></textarea>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col">
+              <input
+                class="btn btn-primary bg-dark"
+                type="submit"
+                value="Submit"
               />
             </div>
           </div>
-        </div>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="form-group">
-              <label for="Email">Email</label>
-              <input
-                type="text"
-                name="name"
-                id="name"
-                class="form-control"
-                placeholder="Email"
-              />
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col">
-            <div class="form-group">
-              <label for="Message">Message</label>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="form-group col-md-6">
-            <textarea
-              class="form-control"
-              id="exampleFormControlTextarea1"
-              rows="3"
-              placeholder="Message"
-            ></textarea>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col">
-            <input
-              class="btn btn-primary bg-dark"
-              type="submit"
-              value="Submit"
-            />
-          </div>
-        </div>
-      </form>
-    </div>
+        </form>
+      </div>
+    </main>
     <footer
       class="bg-dark text-center text-lg-start text-white bg-dark fixed-bottom"
     >
