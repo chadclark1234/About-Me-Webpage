@@ -7,7 +7,7 @@ My About Me webpage was a project that the task was to build a responsive websit
 
 My motivation for this project was to challenge myself as a new student developer. While there were many obstacles along the way, I took great enjoyment in overcoming those challenges.
 :zap:
-![alt text](./Images\ScreenShot.PNG "Home Page")
+![alt text](./Images/AboutMe.PNG "HomePage")
 
 ## Credits
 
