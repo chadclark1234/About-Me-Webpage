@@ -19,4 +19,3 @@ https://chadclark1234.github.io/About-Me-Webpage/
 ## Credits
 
 I would like to thank my instructors and tutor who have been supportive and helpful with challenges I could not overcome myself. :mega:
-gi
