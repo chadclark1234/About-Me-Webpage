@@ -6,7 +6,7 @@ body {
     #eee 75%
   );
 }
-/* Main Container Style */
+/* Main Content Style */
 .container {
   background-color: white;
   margin-top: 75px;
@@ -22,6 +22,7 @@ h1 {
   margin-top: 30px;
   font-weight: bold;
 }
+/* About Me Image Style */
 img#profile {
   height: 300px;
   width: 300px;
