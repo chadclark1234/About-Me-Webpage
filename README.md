@@ -14,8 +14,9 @@ https://github.com/chadclark1234/About-Me-Webpage
 
 https://chadclark1234.github.io/About-Me-Webpage/
 
-![alt text](./Images/AboutMe.PNG "HomePage")
+![alt text](./Images/AboutMe2.PNG "HomePage")
 
 ## Credits
 
 I would like to thank my instructors and tutor who have been supportive and helpful with challenges I could not overcome myself. :mega:
+git s
