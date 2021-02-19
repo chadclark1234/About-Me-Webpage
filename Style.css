@@ -14,8 +14,8 @@ html {
   margin-top: 75px;
   size: auto;
   border-radius: 10px;
-  margin-bottom: 200px !important;
-  padding-bottom: 30px;
+  margin-bottom: 200px;
+  padding-bottom: 100px;
   position: relative;
 }
 h1 {
@@ -23,7 +23,7 @@ h1 {
   padding-left: 20px;
   margin-top: 30px;
   font-weight: bold;
-  color: white;
+  color: white !important;
 }
 /* About Me Image Style */
 img#profile {
@@ -42,6 +42,21 @@ p {
   width: 100%;
   margin: 0px 20px 20px 0px;
   border-radius: 10px;
+}
+.respond {
+  transition: transform 0.2s;
+}
+.respond:hover {
+  /* transform: scale(1.5); */
+  width: 99%;
+  height: 99%;
+}
+.github {
+  font-weight: bold;
+}
+.git-link {
+  justify-content: center;
+  padding: 20px;
 }
 /* Footer Style */
 footer {
