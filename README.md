@@ -1,22 +1,41 @@
-## About-Me-Webpage
+## Porfolio Website
 
-My About Me webpage was a project that the task was to build a responsive website using the Bootstrap container method and plug-ins.
-:zap:
+![ProjectPic](https://img.shields.io/badge/LICENSE-NA-blue)
 
-## Motivation
+## Table Of Contents
 
-My motivation for this project was to challenge myself as a new student developer. While there were many obstacles along the way, I took great enjoyment in overcoming those challenges.
-:zap:
+- [Description](#description)
+- [Challenges](#challenges)
+- [Repository URL](#repository-URL)
+- [Project URL](#project-URL)
+- [Project Glimpse](#Project-Glimpse)
+- [Credits](#credits)
+- [License](#license)
 
-## Project Links
+## Description
 
-https://github.com/chadclark1234/About-Me-Webpage
+The goal of this project was to build a responsive websit using Bootstrap.
 
-https://chadclark1234.github.io/About-Me-Webpage/
+## Challenges
 
-![alt text](./Images/AboutMe2.PNG "HomePage")
+This project was originally a fun one but with many challanges. It has been fun coming back and adding in new projects that I have completed since the original build.
+
+## Repository URL
+
+[Repository Link](https://github.com/chadclark1234/About-Me-Webpage)
+
+## Project URL
+
+[Project Link](https://chadclark1234.github.io/About-Me-Webpage/)
+
+## Project Glimpse
+
+![ProjectPic](Images/appPic.PNG)
 
 ## Credits
 
-I would like to thank my instructors and tutor who have been supportive and helpful with challenges I could not overcome myself. :mega:
-git s
+NA
+
+## License
+
+NA
